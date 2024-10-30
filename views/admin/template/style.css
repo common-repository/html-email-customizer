@@ -1,0 +1,43 @@
+.plugin-easy-digital-downloads .body-text ul{
+    list-style-type: none;
+    margin-left: 0;
+    padding-left: 0;
+}
+
+.plugin-easy-digital-downloads .body-text ul li{
+    border-top:       ###edd_products_border_inner_h### ###edd_products_bordercolor###;
+    border-left:      ###edd_products_border_outer_v### ###edd_products_bordercolor###;
+    border-right:     ###edd_products_border_outer_v### ###edd_products_bordercolor###;
+    padding:          ###edd_item_paddingtop###px ###edd_item_paddingright###px ###edd_item_paddingbottom###px ###edd_item_paddingleft###px;
+    font-family:      ###edd_variationfont###;
+    font-size:        ###edd_variationfontsize###px;
+    color:            ###edd_variationcolor###;
+    font-weight:      ###edd_variationbold###;
+    font-style:       ###edd_variationitalic###;
+    text-align:       ###edd_content_align###;
+}
+
+.plugin-easy-digital-downloads .body-text ul li:first-child{
+    border-top:       ###edd_products_border_top### ###edd_products_bordercolor###;
+}
+
+.plugin-easy-digital-downloads .body-text ul li:last-child{
+    border-bottom:       ###edd_products_border_bottom### ###edd_products_bordercolor###;
+}
+
+.plugin-easy-digital-downloads .body-text ul li strong{
+    font-family:      ###edd_contentfont###;
+    font-size:        ###edd_contentfontsize###px;
+    color:            ###edd_contentcolor###;
+    font-weight:      ###edd_contentbold###;
+    font-style:       ###edd_contentitalic###;
+}
+
+.plugin-easy-digital-downloads .body-text ul li a{
+    font-family:      ###edd_linkfont###;
+    font-size:        ###edd_linkfontsize###px;
+    color:            ###edd_linkcolor###;
+    font-weight:      ###edd_linkbold###;
+    font-style:       ###edd_linkitalic###;
+    text-decoration:  ###edd_linkunderline###;
+}
